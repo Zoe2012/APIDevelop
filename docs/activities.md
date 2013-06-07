@@ -44,7 +44,7 @@ HTTP Status Code 表示运行结果
         "title":"活动标题",
         "url":"http://www.urbanmonkey.cn/",
         "tags":[
-            "人文"
+            "运动","讲座"
             ],
         "content":"活动内容",
         "source":"来源网站",
@@ -59,7 +59,7 @@ HTTP Status Code 表示运行结果
         "title":"活动标题2",
         "url":"http://www.urbanmonkey.cn/",
         "tags":[
-            "人文"
+            "展览","科技"
             ],
         "content":"活动内容",
         "source":"来源网站",
